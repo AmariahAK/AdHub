@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @AmariahAK
-- 👀 I’m interested in Software Engineering-Python
-- 🌱 I’m currently learning Python and Django
-- 💞️ I’m hoping to learn from the comunity and help in any way I can
+I am trying to make a social media project with some e-commerce features, but the social media project does not work in  switching between the template files, please help me. 
